@@ -1,5 +1,4 @@
-<h1 align="center">About Me 🐣</h1>
-<h3 align="center"></h3>
+<h1 align="left">About Me 🐣</h1>
 
 <p align="left">
 👋🏻 I'm Trixia, a software developer from Philippines! <br/> 
