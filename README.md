@@ -2,11 +2,10 @@
 <h3 align="center"></h3>
 
 <p align="left">
-👋🏻 I'm Trixia, a software developer from Philippines! 
-📖 I look into expanding my skillset in the field of software development and AI/ML. 
-
+👋🏻 I'm Trixia, a software developer from Philippines! < br/> 
+📖 I look into expanding my skillset in the field of software development and AI/ML.  < br/> 
+- 📫 Let's chat at trixiaagregorio@gmail.com </p>
 </p>
-- 📫 Let's chat at **trixiaagregorio@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
