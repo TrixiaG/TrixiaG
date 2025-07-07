@@ -1,7 +1,9 @@
 <h1 align="center">About Me 🐣</h1>
 <h3 align="center"></h3>
 
+<p align="left">
 👋🏻 I'm Trixia, a software developer from Philippines! 
+</p>
 📖 I look into expanding my skillset in the field of software development and AI/ML. 
 📫 Let's chat at **trixiaagregorio@gmail.com**
 
