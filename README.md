@@ -5,7 +5,7 @@
 👋🏻 I'm Trixia, a software developer from Philippines! 
 </p>
 📖 I look into expanding my skillset in the field of software development and AI/ML. 
-📫 Let's chat at **trixiaagregorio@gmail.com**
+- 📫 Let's chat at **trixiaagregorio@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
